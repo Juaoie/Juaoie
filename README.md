@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Juaoie/Juaoie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+## Hi, this is Juaoie 👋
+</div>
+
+
+
+<div align=center>
+  <a src="./a.md">手机摄影作品展🌱</a>
+</div>
+
+------
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juaoie&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
