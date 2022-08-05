@@ -14,20 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
+
 ## Hi, this is Juaoie 👋
+
 </div>
-
-
-
-<div align=center>
-  <a src="./a.md">手机摄影作品展🌱</a>
-</div>
-
-------
-
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juaoie&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juaoie&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+- [手机摄影作品展 🌱](https://www.aliyundrive.com/s/MBvSuBxn3GA)
