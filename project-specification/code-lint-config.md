@@ -18,6 +18,9 @@
 
 ### eslint-define-config
 - 定义 eslint 配置
+
+  一个用于优化 ESLint 配置体验的工具，其核心作用是简化配置文件的编写，并提供类型安全支持。以下是它的主要作用和特性：
+
   
 ### eslint-config-airbnb
 - Airbnb 代码风格
